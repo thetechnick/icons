@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="ameise.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="/home/nschieder/Documents/emojis/ameise.png"
+   inkscape:export-xdpi="96.000008"
+   inkscape:export-ydpi="96.000008">
+  <defs
+     id="defs2">
+    <filter
+       id="Adobe_OpacityMaskFilter"
+       filterUnits="userSpaceOnUse"
+       x="20.9"
+       y="278.1"
+       width="108"
+       height="70">
+      <feColorMatrix
+         type="matrix"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         id="feColorMatrix1039" />
+    </filter>
+    <filter
+       id="Adobe_OpacityMaskFilter_1_"
+       filterUnits="userSpaceOnUse"
+       x="369.7"
+       y="296.5"
+       width="12.6"
+       height="12.6">
+      <feColorMatrix
+         type="matrix"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         id="feColorMatrix1054" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="34.957356"
+     inkscape:cy="52.001533"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1530"
+     inkscape:window-height="1205"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#161616;fill-opacity:1;stroke:none;stroke-width:0.065229;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect1744"
+       width="0.94143349"
+       height="8.9087992"
+       x="7.0664959"
+       y="17.282318" />
+    <path
+       id="path1738"
+       style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.288846px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 15.995996,11.892618 v 2.571972 h -0.01184 l -0.04795,1.27273 h 15.099552 l 2.552229,-0.636365 V 14.46459 h -16.52856 v -2.571972 z"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       id="path1699"
+       style="fill:#e50004;fill-opacity:0.988235;stroke:none;stroke-width:0.267418px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 9.4949805,21.415518 C 8.574188,21.453473 7.4162142,21.831721 6.467172,23.194292 5.5066625,24.573326 5.1524879,27.264347 5.0336594,29.597428 h 6.0477186 v 4.346798 h 2.900874 v -12.28443 h -2.935287 c -0.12723,-0.05169 -0.730801,-0.278127 -1.5519845,-0.244278 z" />
+    <path
+       id="path1688"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.01071px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 52.845703 6.6074219 L 52.845703 119.20898 L 41.882812 119.20898 L 41.882812 111.86523 L 19.025391 111.86523 C 18.587001 120.47262 18.994141 127.79297 18.994141 127.79297 L 35.826172 127.79297 C 35.837208 132.07921 35.982422 135.13672 35.982422 135.13672 L 53.607422 135.13672 L 53.607422 135.63867 L 58.869141 135.63867 L 58.869141 128.29297 L 60.503906 128.29297 L 110.85547 128.29297 L 116.92188 124.79102 L 116.92188 122.10938 L 110.85547 122.10938 L 60.503906 122.10938 L 60.503906 6.6074219 L 52.845703 6.6074219 z "
+       transform="scale(0.26458333)" />
+    <rect
+       style="fill:#161616;fill-opacity:1;stroke:none;stroke-width:0.151864;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect1746"
+       width="4.0176997"
+       height="2.4198182"
+       x="10.400767"
+       y="21.659796" />
+    <rect
+       style="fill:#161616;fill-opacity:1;stroke:none;stroke-width:0.0999494;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect1746-5"
+       width="3.9041469"
+       height="1.0786586"
+       x="13.155277"
+       y="9.080883" />
+    <rect
+       style="fill:#737373;fill-opacity:1;stroke:none;stroke-width:0.100373;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect1766"
+       width="8.9922323"
+       height="0.53533214"
+       x="4.9870663"
+       y="31.0056" />
+    <rect
+       style="fill:#e50004;fill-opacity:1;stroke:none;stroke-width:0.0175465;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect1744-3"
+       width="0.94143349"
+       height="0.64464271"
+       x="6.8283482"
+       y="-17.923397"
+       transform="scale(1,-1)" />
+  </g>
+  <style
+     type="text/css"
+     id="style1035">
+	.st0{fill:#FF7000;}
+	.st1{filter:url(#Adobe_OpacityMaskFilter);}
+	.st2{fill:#FFFFFF;}
+	.st3{mask:url(#b_1_);fill:#FF7000;}
+	.st4{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st5{mask:url(#d_1_);fill:#FF7000;}
+</style>
+</svg>
