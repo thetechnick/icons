@@ -6,9 +6,6 @@
   <img alt="GitHub repo file count (file extension)" src="https://img.shields.io/github/directory-file-count/thetechnick/icons/icons?extension=svg">
 </p>
 
-
-![CC0 1.0 Universal License](cc-zero.png)
-
 ---
 
 Library of random emojis most people will never need.
